@@ -1,2 +1,2 @@
-*.sqlpl linguist-detectable=true
-*.sqlpl linguist-language=sqlpl
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
